@@ -3,7 +3,7 @@
 ## Helpful Links
 * [Chute Angular SDK](https://github.com/chute/angular-chute)
 * [Getting started](http://chute.github.io/angular-chute/)
-* [Annotated source code](http://chute.github.io/angular-chute/docs/chute.html). 
+* [Annotated source code](http://chute.github.io/angular-chute/docs/chute.html)
 * [Chute API](http://www.getchute.com/developers/reference/)
 
 ## Installation
