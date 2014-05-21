@@ -1,8 +1,8 @@
 'use strict';
 
 angular.module('chuteAngularApp').
-    controller('MainCtrl', ['$scope', 'Chute.API.Asset',
-        function($scope, Asset) {
+    controller('MainCtrl', ['$scope', 'Chute.API.Asset', 'MyService', `
+        function($scope, Asset, MyService) {
 
 
             //https://api.getchute.com/v2/albums/ayg4tmuc/assets
