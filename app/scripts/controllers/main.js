@@ -1,7 +1,7 @@
 'use strict';
 
 angular.module('chuteAngularApp').
-    controller('MainCtrl', ['$scope', 'Chute.API.Asset', 'MyService', `
+    controller('MainCtrl', ['$scope', 'Chute.API.Asset', 'MyService',
         function($scope, Asset, MyService) {
 
 
