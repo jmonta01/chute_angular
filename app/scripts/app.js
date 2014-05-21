@@ -15,6 +15,10 @@ angular
         templateUrl: 'views/main.html',
         controller: 'MainCtrl'
       })
+      .when('/my-other-view', {
+        templateUrl: 'views/my-other-view.html',
+        controller: 'MyOtherViewCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });
